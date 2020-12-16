@@ -20,10 +20,10 @@ title = "Zero MC"
   posts = "posts/:slug/"
 
 [params]
-  author = "Zeroshot and Orangemn6"
+  author = "ZeroMC"
   email = "john.doe@example.com"
   description = "Landing Page for Zeroshot's site"
-  bio = "First Row.  \nSecond Row."
+  bio = "Zeroshot's Minecraft Server.  \nPartnered by Orangemn6."
   avatar = "img/avatar.jpg"
   favicon = "img/favicon.ico"
   error404 = "There is no such page."
